@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 1
 =======
 h1 {
@@ -9,27 +10,47 @@ h1 {
     
 }
 
+=======
+>>>>>>> Stashed changes
 .navbar a {
     color: rgb(186, 62, 62);
     text-align: center;
-    padding: 14px;
     text-decoration: none;
-    float: left
-    
-    
-    
+    float: left;
+    border-style: solid;
+    border-color: green;
     
 }
 
+<<<<<<< Updated upstream
 .main {
     
 }
+=======
+body {
+    background-color: rgb(37, 37, 84);
+
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+    border-style: solid;
+    border-color: green;
+
+}
+
+>>>>>>> Stashed changes
 
 
 
 
 
 
+<<<<<<< Updated upstream
 
 
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
