@@ -9,6 +9,7 @@ h1 {
 
 
 
+
 .navbar a {
     color: rgb(186, 62, 62);
     text-align: center;
@@ -35,6 +36,25 @@ h2 {
     border-style: solid;
     border-color: green;
 
+
+
+.navbar a {
+    color: rgb(186, 62, 62);
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    float: left
+    
+    
+    
+    
 }
+
+
+
+
+
+
+
 
 
