@@ -1,3 +1,4 @@
+
 h1 {
     text-align: center;
     box-sizing: border-box;
@@ -5,6 +6,37 @@ h1 {
     border-radius: 20px;
     
 }
+
+
+
+
+.navbar a {
+    color: rgb(186, 62, 62);
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    border-style: solid;
+    border-color: green;
+    
+}
+
+
+.main {
+    
+}
+body {
+    background-color: rgb(37, 37, 84);
+
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+    border-style: solid;
+    border-color: green;
+
+
 
 .navbar a {
     color: rgb(186, 62, 62);
@@ -17,6 +49,7 @@ h1 {
     
     
 }
+
 
 
 
