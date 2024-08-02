@@ -1,1 +1,27 @@
-1
+h1 {
+    text-align: center;
+    box-sizing: border-box;
+    border-style: dotted;
+    border-radius: 20px;
+    
+}
+
+.navbar a {
+    color: rgb(186, 62, 62);
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    float: left
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
